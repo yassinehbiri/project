@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 751 294" style="enable-background:new 0 0 751 294;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000001649637119992307010000005606404747034043538_);}
+	.st1{fill:none;}
+	.st2{fill:#F4F4F4;}
+	.st3{fill:#5F95CC;}
+	.st4{fill:#5B628D;}
+	.st5{fill:none;stroke:#71C5CE;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#FBC12F;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="751" height="294"/>
+	</defs>
+	<clipPath id="SVGID_00000183242537288676603420000003697934460550167721_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000183242537288676603420000003697934460550167721_);">
+		<rect y="0" class="st1" width="751" height="294"/>
+		<circle class="st2" cx="15.3" cy="160" r="33.6"/>
+		<path class="st2" d="M135.4,348.5L47,260c-2.4-2.4-2.4-6.4,0-8.8l0,0c2.4-2.4,6.3-2.4,8.8,0l88.5,88.5c2.4,2.4,2.4,6.4,0,8.8l0,0
+			C141.8,350.9,137.9,350.9,135.4,348.5z"/>
+		<path class="st3" d="M197.2,142.6l-31.5,11.5c-1.6,0.6-3.4-0.2-4-1.9l0,0c-0.6-1.6,0.2-3.4,1.9-4l31.5-11.5c1.6-0.6,3.4,0.2,4,1.9
+			l0,0C199.7,140.2,198.9,142,197.2,142.6z"/>
+		<path class="st4" d="M489.2,71.8l-31.6-11.2c-1.6-0.6-2.5-2.4-1.9-4l0,0c0.6-1.6,2.4-2.5,4-1.9l31.6,11.2c1.6,0.6,2.5,2.4,1.9,4
+			l0,0C492.6,71.5,490.8,72.4,489.2,71.8z"/>
+		<path class="st5" d="M527.8,162c0,0-1-12.4,8.5-17.3c5.4-2.8,12.1-2.1,16.9,1.7c1.8,1.4,3.5,3.3,5,6"/>
+		<path class="st2" d="M755.5,162c-48.4,0-87.7,39.3-87.7,87.7s39.3,87.7,87.7,87.7s87.7-39.3,87.7-87.7S804,162,755.5,162z
+			 M755.5,308.9c-32.7,0-59.2-26.5-59.2-59.2c0-32.7,26.5-59.2,59.2-59.2c32.7,0,59.2,26.5,59.2,59.2
+			C814.8,282.4,788.2,308.9,755.5,308.9z"/>
+		<circle class="st6" cx="255.9" cy="47" r="8.2"/>
+	</g>
+</g>
+</svg>
